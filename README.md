@@ -244,9 +244,7 @@ This project demonstrates practical knowledge of:
 
 GitHub: https://github.com/Ragunathapoorva
 
----
 
-# License
 
 This project is developed for educational, learning, and portfolio purposes.
 
